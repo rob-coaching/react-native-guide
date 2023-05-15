@@ -32,7 +32,7 @@ At the time of writing (Nov 2021) it seems, Expo snack does not allow making fet
 
 ## Sample Project
 
-Find here a quick starter project which shows a full React native app: 
+Find here a quick starter project which shows a minimal React native app: 
 
 https://github.com/losrobbos/react-native-auth
 
